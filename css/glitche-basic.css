@@ -294,8 +294,8 @@ html {
   a.btn:hover,
   .btn:hover {
     color: #ffffff;
-    background: #303f9f;
-    border: 1px solid #303f9f;
+    background: #000000;
+    border: 1px solid #000000;
   }
   
   /* 7. Preloader */
@@ -310,13 +310,13 @@ html {
   }
   
   .preloader .load {
-    color: #303f9f;
+    color: #000000;
     font-size: 12px;
   }
   
   .preloader .typed-load,
   .preloader .typed-cursor {
-    color: #303f9f;
+    color: #000000;
     font-size: 12px;
   }
   
@@ -352,7 +352,7 @@ html {
   textarea:focus,
   button:focus {
     color: #141414;
-    border-bottom: 1px solid #303f9f;
+    border-bottom: 1px solid #000000;
   }
   
   textarea {
@@ -372,7 +372,7 @@ html {
   }
   
   button:hover {
-    border-bottom: 1px solid #303f9f;
+    border-bottom: 1px solid #000000;
   }
   
   label,
