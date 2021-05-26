@@ -612,20 +612,20 @@ html {
   
     .glitch-effect-white:before,
     .glitch-effect-white:after {
-      background: #303f9f;
+      background: #000000;
     }
   
     .glitch-effect:after,
     .glitch-effect-white:after {
       left: 2px;
-      text-shadow: -1px 0 #303f9f;
+      text-shadow: -1px 0 #000000;
       animation: glitch-1 2s infinite linear alternate-reverse;
     }
   
     .glitch-effect:before,
     .glitch-effect-white:before {
       left: -2px;
-      text-shadow: 2px 0 #303f9f;
+      text-shadow: 2px 0 #000000;
       animation: glitch-2 2s infinite linear alternate-reverse;
     }
   
