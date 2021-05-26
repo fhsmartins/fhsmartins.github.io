@@ -84,7 +84,7 @@ html {
   .container .line {
     content: '';
     position: fixed;
-    background: #303f9f;
+    background: #000000;
     z-index: 105;
   }
   
