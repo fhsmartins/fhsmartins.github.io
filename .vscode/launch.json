@@ -1,0 +1,11 @@
+{
+    "configurations": [
+
+        {
+            "type": "pwa-msedge",
+            "name": "https://fhsmartins.github.io/index.html",
+            "request": "launch",
+            "url": "https://fhsmartins.github.io/index.html"
+        }
+    ]
+}
