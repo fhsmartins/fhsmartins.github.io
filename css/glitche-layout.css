@@ -137,7 +137,7 @@ header {
   header .head-top .menu-btn:hover:before,
   header .head-top .menu-btn:hover:after,
   header .head-top .menu-btn:hover span {
-    background: #303f9f;
+    background: #000000;
   }
   
   @media (max-width: 840px) {
